@@ -1,0 +1,17 @@
+{
+    "EmployeeDetails":[
+      {"id": 1, "Name": "Smith", "Code": "E001", "UserName": "Smith Json", "HR": 1, "Manager": 1},
+      {"id": 2, "Name": "John", "Code": "E002", "UserName": "John Json", "HR": 1, "Manager": 1},
+      {"id": 3, "Name": "Mike", "Code": "E003", "UserName": "Mike Json", "HR": 1, "Manager": 1},
+      {"id": 4, "Name": "Shiva", "Code": "E004", "UserName": "Shiva Json", "HR": 2, "Manager": 2},
+      {"id": 5, "Name": "Vishwa", "Code": "E005", "UserName": "Vishwa Json", "HR": 2, "Manager": 2}
+    ],
+    "HRGroup":[
+      {"id": 1, "GroupName": "Technical"},
+      {"id": 2, "GroupName": "Non-Technical"}
+    ],
+    "ManagerGroup":[
+      {"id": 1, "Location": "Off-Shore"},
+      {"id": 2, "Location": "On-Shore"},
+    ]
+}
