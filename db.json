@@ -12,6 +12,6 @@
     ],
     "ManagerGroup":[
       {"id": 1, "Location": "Off-Shore"},
-      {"id": 2, "Location": "On-Shore"},
+      {"id": 2, "Location": "On-Shore"}
     ]
 }
