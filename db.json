@@ -15,11 +15,11 @@
       {"id": 1, "Location": "Off-Shore"},
       {"id": 2, "Location": "On-Shore"}
     ],
-    "RoleTable":[
+    "RoleTable": [
         {"id":1, "RoleId": "R1", "RoleName" : "Admin"},
         {"id":2, "RoleId": "R2", "RoleName" : "HR"}
     ],
-    "UserTable":[
+    "UserTable": [
         {"id":1, "UserId": "U0001", "Password":"1234", "EmployeeId":"E0001", "RoleId" : "R1"},
         {"id":2, "UserId": "U0002", "Password":"1234", "EmployeeId":"E0002", "RoleId" : "R1"},
         {"id":3, "UserId": "U0003", "Password":"1234", "EmployeeId":"E0003", "RoleId" : "R2"},
