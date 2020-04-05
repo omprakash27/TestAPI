@@ -17,7 +17,7 @@
     ],
     "RoleTable":[
         {"id":1, "RoleId": "R1", "RoleName" : "Admin"},
-        {"id":2, "RoleId": "R2", "RoleName" : "HR"},
+        {"id":2, "RoleId": "R2", "RoleName" : "HR"}
     ],
     "UserTable":[
         {"id":1, "UserId": "U0001", "Password":"1234", "EmployeeId":"E0001", "RoleId" : "R1"},
